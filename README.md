@@ -2,7 +2,7 @@
 
 A text-based DNA parsing engine built in Python. This terminal application scans string-based genetic sequences to identify standard human biological baselines alongside extraterrestrial, synthetic, and mutant anomalies. 
 
-Built as an exploration of Python's core data structures—specifically transitioning algorithmic complete-search logic into Pythonic dictionaries, sets, and control flows.
+Built as an exploration of Python's core data structures specifically transitioning algorithmic complete-search logic into Pythonic dictionaries, sets, and control flows.
 
 ## Features
 
@@ -53,4 +53,4 @@ Checking input...
 
 ## Logic & Architecture
 
-This project maps substrings to complex string outputs. It handles O(N*M) character validation efficiently and utilizes Python's `in` keyword for high-speed substring searching. The script demonstrates a transition from manual array-indexing loops (common in C/C++) to Python's built-in iteration and set-manipulation tools.
+This project maps substrings to complex string outputs. It handles O(N*M) character validation efficiently and utilizes Python's `in` keyword for high-speed substring searching. 
