@@ -23,7 +23,7 @@ Built as an exploration of Python's core data structures specifically transition
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/genomic-sequence-analyzer.git
+   git clone https://github.com/michaelsalusu06/genomic-sequence-analyzer.git
    ```
 2. Navigate to the project directory:
    ```bash
